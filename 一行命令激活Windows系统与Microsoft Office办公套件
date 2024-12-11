@@ -1,0 +1,5 @@
+一行命令激活Windows系统与Microsoft Office办公套件
+
+irm https://get.activated.win | iex
+
+使用 Powershell 执行此命令，会自动唤起管理员UAC弹窗，同意即可。
